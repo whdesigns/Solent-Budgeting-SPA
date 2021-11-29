@@ -1,4 +1,4 @@
-# Solent-Budgeting-SPA
+# Solent Budgeting SPA
 
 ## 1. Introduction 
 
