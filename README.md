@@ -1,11 +1,11 @@
 # Solent-Budgeting-SPA
 
-## Introduction 
+## 1. Introduction 
 
-## Methodology 
+## 2. Methodology 
 
-## Methods 
+## 3. Methods 
 
-## Conclusion/Results
+## 4. Conclusion/Results
 
-## Appendix
+## 5. Appendices
